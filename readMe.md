@@ -10,6 +10,6 @@ this is edited locally
 
 this is edited again
 
-##local development
+## local development
 
-open index.html in your local machine
+open index.html in your local machine!
